@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+chromadb
+sentence-transformers
+transformers
+torch
+requests
+rank_bm25
+scikit-learn
+pandas
+jupyter

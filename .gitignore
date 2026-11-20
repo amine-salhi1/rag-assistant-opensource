@@ -1,0 +1,4 @@
+data/wikipedia/
+vectordb_os/
+.ipynb_checkpoints/
+.venv/
